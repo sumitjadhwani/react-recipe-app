@@ -3,6 +3,7 @@
 React based recipe app using Spoonacular API & Styled components
 
 ### Demo:
+<!-- update url -->
 https://react-recipes-app.netlify.app/
 
 ### Available Scripts
