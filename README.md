@@ -1,4 +1,11 @@
-## Available Scripts
+## Recipe App
+### Description:
+React based recipe app using Spoonacular API & Styled components
+
+### Demo:
+https://react-recipes-app.netlify.app/
+
+### Available Scripts
 
 In the project directory, you can run:
 
