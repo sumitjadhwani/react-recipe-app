@@ -4,10 +4,9 @@ React based recipe app using Spoonacular API & Styled components
 
 ### Demo:
 <!-- update url -->
-https://react-recipess-app.netlify.app/
+https://react-recipess-webapp.netlify.app/
 
 ### Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
